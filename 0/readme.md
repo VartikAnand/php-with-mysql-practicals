@@ -14,4 +14,4 @@
 
 ## Output
 
-![Output Image Unavailable](1.jpg)
+![Output Image Unavailable](1.png)
