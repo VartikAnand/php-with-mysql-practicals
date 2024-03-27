@@ -1,15 +1,16 @@
 <?php
 // Function to calculate grade based on marks
 function calculateGrade($marks) {
-    if ($marks >= 90) {
+    $m = $marks;
+    if ($m >= 90) {
         return 'A';
-    } elseif ($marks >= 80) {
+    } elseif ($m >= 80) {
         return 'B';
-    } elseif ($marks >= 70) {
+    } elseif ($m >= 70) {
         return 'C';
-    } elseif ($marks >= 60) {
+    } elseif ($m >= 60) {
         return 'D';
-    } elseif ($marks >= 50) {
+    } elseif ($m >= 50) {
         return 'E';
     } else {
         return 'F';
