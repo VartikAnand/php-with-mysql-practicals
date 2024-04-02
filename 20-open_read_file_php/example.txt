@@ -1,0 +1,8 @@
+PHP stands for Hypertext Preprocessor.
+It is a free, open-source scripting language used for web development.
+Primarily used for server-side scripting, but also applicable for command-line scripting and desktop applications.
+PHP is used to create dynamic web pages.
+It can be embedded into HTML.
+Webpages can be entirely made up of PHP scripts or contain embedded PHP scripts within standard HTML elements.
+PHP is known for being fast, flexible, and pragmatic.
+It powers everything from blogs to popular websites.
